@@ -67,18 +67,4 @@ Our scripts offer safe, effective ways to dominate SkyWars — auto-win, auto-bu
 🌟 **Download our SkyWars scripts now and take your gameplay to the next level!**  
 *Use automation responsibly for maximum safety and fun.*
 
----
-
-## Recommended repository name for SEO optimization:
-
-**"SkyWars Auto Scripts | Auto Win, Infinite Resources, Auto-Aim & Build"**
-
-or in Russian:
-
-**"SkyWars Автоматические Скрипты | Бесконечные Ресурсы, Авто-Выигрыш, Авто-Цель"**
-
-This name includes key SEO keywords to help your repository rank higher on Google, Bing, and other search engines, attracting players looking for cheats and automation tools.
-
----
-
 If you'd like, I can help you with specific script ideas, setup instructions, or further optimization!
